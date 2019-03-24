@@ -2,7 +2,7 @@
   "name": "popcorn",
   "version": "1.0.0",
   "description": "popcorn",
-  "author": "yann",
+  "author": "yann, Eric Régnier",
   "private": true,
   "scripts": {
     "dev": "popcorn",
