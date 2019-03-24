@@ -1,4 +1,4 @@
 module.exports = {
-  // "au Mans", "à Nantes" etc
+  // "au Mans", "à lille" etc
   location: "à Lille"
 }
